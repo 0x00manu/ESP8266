@@ -7,7 +7,7 @@
 *	This device will connect to the access point
 #	HW
 *	First make the connections as follows to flash the firmware
-![alt text](https://github.com/0x00manu/ESP8266/softSTA/blob/main/ESP12E_Flashing.png?raw=true)
+![alt text](https://github.com/0x00manu/ESP8266/blob/main/softSTA/ESP12E_Flashing.png?raw=true)
 *	Then remove connections from RST, GPIO0, and GPIO15
 *	Use FT232RL to flash the firmware
 
